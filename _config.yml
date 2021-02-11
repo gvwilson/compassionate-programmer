@@ -1,0 +1,39 @@
+title: The Compassionate Programmer
+subtitle: Start where you are, use what you have, help who you can.
+url: https://gvwilson.github.io/compassionate-programmer
+repository: gvwilson/compassionate-programmer
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - '*.sublime-*'
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - vendor/bundle
+
+permalink: pretty
+paginate: 5
+paginate_path: /blog/:num
+
+blog:
+  truncated_preview: false
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+author:
+  name: Greg Wilson
+  url: third-bit.com
+  email: gvwilson@third-bit.com
+  github: https://github.com/gvwilson
+  twitter: https://twitter.com/gvwilson
+  linkedin: https://www.linkedin.com/in/greg-wilson-a26510b6/
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-gist
