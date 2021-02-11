@@ -18,6 +18,12 @@ title: "References"
 :   Anne Minahan: "Martha's Rules."  *Affilia*, 1(2), June 1986, 10.1177/088610998600100206.
     *Describes a lightweight set of rules for consensus-based decision making.*
 
+**Robinson2005**<a id="Robinson2005"></a>
+:   Evan Robinson:
+    "Why Crunch Mode Doesn't Work: 6 Lessons."
+    *International Game Developers Association*, 2005, <http://www.igda.org/articles/erobinson_crunch.php>.
+    *A short summary of what we know about the effects of overwork on productivity.*
+
 **Steinmacher2014**<a id="Steinmacher2014"></a>
 :   Igor Steinmacher, Igor Scaliante Wiese, Tayana Conte, Marco Aurélio Gerosa, and David Redmiles:
     "The Hard Life of Open Source Software Project Newcomers."
